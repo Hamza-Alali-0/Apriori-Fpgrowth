@@ -330,4 +330,3 @@ Connect with me:
 
 Project Link: [https://github.com/Hamza-Alali-0/Apriori-Fpgrowth.git](https://github.com/Hamza-Alali-0/Apriori-Fpgrowth.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
